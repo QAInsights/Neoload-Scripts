@@ -2,6 +2,7 @@
  Purpose: Checks for any regression error in the Cart page by comparing the actual cart value with the expected cart value
  Author: NaveenKumar Namachivayam | QAInsights.com
  Build: 2022.11
+ URL: https://store.qainsights.com
  
 */
 
